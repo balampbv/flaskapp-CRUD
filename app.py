@@ -94,7 +94,7 @@ def login():
     if request.method == 'POST':
         username = request.form['username']
         password_candidate = request.form['password']
-        login_user = users.find_one({'name': request.form['username']})
+        login_user = users.find_one({'username': request.form['username']})
         if login_user:
             if sha256_crypt.verify(password_candidate, login_user['password']):
                 # Passed
