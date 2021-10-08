@@ -14,6 +14,9 @@ Eth2 refers to a set of interconnected upgrades that will make Ethereum more sca
 3. More Sustainable
 ```
 
+<img src="https://m.media-amazon.com/images/I/514FlU4YKBS._SL1080_.jpg" data-canonical-src="https://amzn.to/3anMKzX" width="200" height="200" />
+
+
 ### Polygon
 
 Polygon is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks. Aggregating scalable solutions on Ethereum supporting a multi-chain Ethereum ecosystem.
@@ -28,6 +31,7 @@ Polygon is a protocol and a framework for building and connecting Ethereum-compa
 5. Adaptor modules for enabling interoperability for existing blockchain networks
 
 ```
+
 
 ### What next?
 
