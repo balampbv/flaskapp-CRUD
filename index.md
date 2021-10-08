@@ -14,6 +14,7 @@ Eth2 refers to a set of interconnected upgrades that will make Ethereum more sca
 3. More Sustainable
 ```
 
+[Dell Inspiron 7415 14 inch (35.5 cm) FHD Touch Display 2in1 Laptop](https://amzn.to/3anMKzX)
 <img src="https://m.media-amazon.com/images/I/514FlU4YKBS._SL1080_.jpg" data-canonical-src="https://amzn.to/3anMKzX" width="200" height="200" />
 
 
