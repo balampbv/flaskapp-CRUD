@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## Welcome to the tech-savy
 
-You can use the [editor on GitHub](https://github.com/balampbv/flaskapp-CRUD/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+The tech-savy is a blog which posts active content on the cutting edge technology.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Eth 2.0
 
-### Markdown
+Eth2 refers to a set of interconnected upgrades that will make Ethereum more scalable, more secure, and more sustainable. These upgrades are being built by multiple teams from across the Ethereum ecosystem.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Eth 2.0](https://ethereum.org/static/28214bb68eb5445dcb063a72535bc90c/c3328/hero.png)
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+1. More Scalable
+2. More Secure
+3. More Sustainable
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Polygon
 
-### Jekyll Themes
+Polygon is a protocol and a framework for building and connecting Ethereum-compatible blockchain networks. Aggregating scalable solutions on Ethereum supporting a multi-chain Ethereum ecosystem.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/balampbv/flaskapp-CRUD/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![Polygon](https://polygon.technology/wp-content/uploads/2021/07/polygon-logo.svg)
 
-### Support or Contact
+```markdown
+1. One-click deployment of preset blockchain networks
+2. Growing set of modules for developing custom networks
+3. Interoperability protocol for exchanging arbitrary messages with Ethereum and other blockchain networks
+4. Modular and optional “security as a service”
+5. Adaptor modules for enabling interoperability for existing blockchain networks
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+```
+
+### What next?
+
+Having trouble understading latest tech stack. Don't worry. we’ll help you sort it out. Watch out this space for more and more updates. Peace!
